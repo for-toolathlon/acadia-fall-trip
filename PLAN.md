@@ -1,31 +1,20 @@
-# Acadia Fall Trip Plan
+# acadia-fall-trip — Planning Home Base
 
 ## Park overview
-
-- **Park:** Acadia National Park, Maine
-- **Park code:** acad
-- **Designation designation / official description:** 429 rate-limit errors from the NPS Services API on this park; unable to retrieve official description and designation directly from NPS tools.
-- **Primary activities:** hiking, camping, parking, wildlife viewing, driving (9-mile Park Loop Road)
+- **Park:** Acadia National Park — Maine (NPS park code: `acad`)
+- **Designation:** National Park
+- **Description:** Acadia National Park protects the natural beauty of the highest rocky headlands along the Atlantic coastline of the United States, an abundance of habitats, and a rich cultural heritage. At 4 million visits a year, it's one of the top 10 most-visited national parks in the United States. Visitors enjoy 27 miles of historic motor roads, 158 miles of hiking trails, and 45 miles of carriage roads.
+- **Location:** Mount Desert Island, Maine (Schoodic Peninsula and Isle au Haut)
+- **Activities:** Hiking, biking, boating, camping, stargazing, etc.
 
 ## Events
+- The live NPS event feed returned **0 events** for Acadia between today (2026-11-23) and November 30, 2026. No events are currently listed.
 
-Events running October 20 – November 30, 2025: **no data returned** — the NPS events endpoint is returning 429 rate-limit errors, so no events could be confirmed from the park service's current listings.
-
-## Alerts / closures
-
-No alerts or current closures retrieved — the NPS alerts endpoint is returning 429 rate-limit errors, so no closure or hazard information can be confirmed from the park service's current listings (interestingly: closures are fairly uncommon in autumn).
+## Alerts
+- **Active alert:** Eastern Section of Beech Mountain Loop Trail Closed for Repairs — Park Closure (area inaccessible). Closed from Sept 21 (updated 9/30/2026). Three alternate summit routes available: outer loop of Beech Mountain Loop Trail, Beech South Ridge Trail, Beech West Ridge Trail. Campgrounds are unaffected.
+- No other active alerts or closures are currently listed.
 
 ## Campgrounds
-
-**No campground listings retrieved** — the NPS campgrounds endpoint is returning 429 rate-limit errors, and no campground data is available from the park service right now.
-
-## Visitor centers
-
-**No visitor center listings retrieved** — the NPS visitor centers endpoint is returning 429 rate-limit errors, with no operating hours available to confirm.
-
-## Community notes
-
-GitHub open-issues search for "Acadia" scoped to repositories within National Park Service organizations, state filters included: **zero open issues found** — nothing worthwhile to report from the broader community.
-
----
-*Base data sourced from the NPS NPS Generic Services Portal. All lookups above came back empty due to NPS API rate limiting on the current date.*
+- **Blackwoods Campground** — Otter Creek, ME (east side of Mount Desert Island, ~5 mi south of Bar Harbor). Amenities: flush toilets (seasonal), running water, dump station, park tables, fire rings, paved roads. No electrical hookups. Season: early May to mid-October.
+- **Seawall Campground** — Southwest Harbor, ME (west side of Mount Desert Island, sha: 4au2). Amenities: flush toilets (PLAN.md), running water, dump station, camp store, etc. No electrical hookups. Season: Wednesday before Memorial Day to Columbus Day.
+- **Schoodic Woods Campground** — Schoodic Peninsula, Winter Harbor, ME (~1.5 mi SE of Winter Harbor). Amenities: flush/vault toilets, running water, push reconnecting, etc. Season: Wednesday before Memorial Day to 2026.</td>|None
